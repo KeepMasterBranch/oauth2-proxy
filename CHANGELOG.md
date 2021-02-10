@@ -8,6 +8,8 @@
 
 ## Changes since v7.0.1
 
+- [#1028](https://github.com/oauth2-proxy/oauth2-proxy/pull/1028) Refactor templates, update theme and provide styled error pages (@JoelSpeed)
+
 # V7.0.1
 
 ## Release Highlights
